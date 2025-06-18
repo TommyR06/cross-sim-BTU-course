@@ -2,4 +2,4 @@
 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yourname/your-repo/blob/master/notebook.ipynb)
+https://colab.research.google.com/github/TommyR06/cross-sim-BTU-course/blob/main/tutorial/BTU-course/BTU-cource-lab-experience-2025.ipynb)
