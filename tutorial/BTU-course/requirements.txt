@@ -52,3 +52,5 @@ wcwidth
 wheel
 ipycanvas
 orjson
+pandas
+openpyxl
