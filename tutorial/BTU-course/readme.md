@@ -1,4 +1,4 @@
-# Laboratory BTU Course 2025
+# Laboratory BTU Course
 
 CNN Training Notebook:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
